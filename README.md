@@ -1,1 +1,1 @@
-# aclouguru-serverless-azure
+#serverless-azure
